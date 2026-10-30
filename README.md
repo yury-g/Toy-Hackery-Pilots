@@ -8,13 +8,19 @@ Small mechanical toy films and printable lesson prototypes.
 
 A complete enlarged two-piece stud-and-tube brick pair with viewing windows and pull tabs. No added hardware. Both parts fit on one 133 × 66 × 25 mm plate.
 
-- [Download the complete Pilot 10 package](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Toy-Hackery-Brick-Printable-v1.zip) — editable FreeCAD and Blender source, STEP/STLs, assembly guide, CAD preview and verification records.
-- [Stud brick STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/StudBrick.stl) — print flat with studs upward.
-- [Window brick STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/WindowBrick.stl) — print flat with cavity and tube upward; flip after printing.
-- [Oriented one-plate STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/One-Plate-Layout.stl) — both parts already positioned for printing.
-- [Visual assembly and disassembly guide](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Visual-Assembly-and-Disassembly.pdf).
-- [Watch the actual-CAD operation preview](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Brick-CAD-Operation.mp4).
-- [SHA-256 checksums](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/SHA256SUMS.txt).
+### Downloads at a glance
+
+Select a thumbnail or filename to open its download. Model previews are taken from the included CAD-based guide; they are not photos of a physical print.
+
+| Preview | File |
+|:---:|:---|
+| [<img src="assets/previews/package.png" alt="Complete Pilot 10 package preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Toy-Hackery-Brick-Printable-v1.zip) | **[Complete Pilot 10 package](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Toy-Hackery-Brick-Printable-v1.zip)**<br>Editable sources, models, guide, video and verification records. |
+| [<img src="assets/previews/stud.png" alt="Stud brick STL preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/StudBrick.stl) | **[Stud brick STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/StudBrick.stl)**<br>Print flat, studs upward. |
+| [<img src="assets/previews/window.png" alt="Window brick STL preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/WindowBrick.stl) | **[Window brick STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/WindowBrick.stl)**<br>Print flat, cavity and tube upward; flip after printing. |
+| [<img src="assets/previews/plate.png" alt="One-plate layout STL preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/One-Plate-Layout.stl) | **[One-plate layout STL](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/One-Plate-Layout.stl)**<br>Both parts positioned for printing. |
+| [<img src="assets/previews/guide.png" alt="Assembly and disassembly guide preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Visual-Assembly-and-Disassembly.pdf) | **[Assembly and disassembly guide](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Visual-Assembly-and-Disassembly.pdf)**<br>Six-page illustrated PDF. |
+| [<img src="assets/previews/video.png" alt="CAD operation preview preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Brick-CAD-Operation.mp4) | **[CAD operation preview](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/Brick-CAD-Operation.mp4)**<br>Watch the mechanism in motion. |
+| [<img src="assets/previews/checksums.svg" alt="SHA-256 checksums preview" width="200">](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/SHA256SUMS.txt) | **[SHA-256 checksums](https://github.com/yury-g/Toy-Hackery-Pilots/releases/download/pilot-10-v1/SHA256SUMS.txt)**<br>Verify the six downloadable assets. |
 
 For multiple colors, import the **two individual manufacturing STLs**, assign a loaded PLA-family color to each whole part, and keep both supplied print orientations. The gold tube in the preview is a teaching color within the single WindowBrick part; it is not another piece to print separately.
 
