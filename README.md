@@ -2,6 +2,8 @@
 
 Small mechanical toy films and printable lesson prototypes.
 
+[<img src="assets/previews/package.png" alt="CAD view of the windowed building brick" width="360">](#print-pilot-10-windowed-building-brick)
+
 **Pilot 10 is the first downloadable print package in this repository.** The other pilots are listed below for the collection; their files have not been uploaded here.
 
 ## Print Pilot 10: windowed building brick
@@ -32,18 +34,24 @@ The native CAD and STL/STEP exports passed geometry checks. A reference slice pr
 
 ## Pilot collection
 
-| Pilot | Mechanism | Files hosted here |
-|---|---|---|
-| 01 | Wind-up toy car | Not uploaded |
-| 02 | Walking spring / Slinky | Not uploaded |
-| 03 | Click-stop doll knee | Not uploaded |
-| 04 | Crank-driven walking horse | Not uploaded |
-| 05 | Coupled-leg walking doll | Not uploaded |
-| 06 | Pull-string talking doll | Not uploaded |
-| 07 | Sleeping doll eyes | Not uploaded |
-| 08 | Jack-in-the-box release latch | Not uploaded |
-| 09 | Cylinder music box | Not uploaded |
-| 10 | Stud-and-tube building brick | [Download v1](https://github.com/yury-g/Toy-Hackery-Pilots/releases/tag/pilot-10-v1) |
+Pilots 01–09 are represented by concept illustrations; their files have not been uploaded. Pilot 10 shows the CAD model.
+
+| Pilot | Preview | Mechanism | Files hosted here |
+|---|:---:|---|---|
+| 01 | <img src="assets/previews/pilot-01.svg" alt="Concept illustration for pilot 01" width="120"> | Wind-up toy car | Not uploaded |
+| 02 | <img src="assets/previews/pilot-02.svg" alt="Concept illustration for pilot 02" width="120"> | Walking spring / Slinky | Not uploaded |
+| 03 | <img src="assets/previews/pilot-03.svg" alt="Concept illustration for pilot 03" width="120"> | Click-stop doll knee | Not uploaded |
+| 04 | <img src="assets/previews/pilot-04.svg" alt="Concept illustration for pilot 04" width="120"> | Crank-driven walking horse | Not uploaded |
+| 05 | <img src="assets/previews/pilot-05.svg" alt="Concept illustration for pilot 05" width="120"> | Coupled-leg walking doll | Not uploaded |
+| 06 | <img src="assets/previews/pilot-06.svg" alt="Concept illustration for pilot 06" width="120"> | Pull-string talking doll | Not uploaded |
+| 07 | <img src="assets/previews/pilot-07.svg" alt="Concept illustration for pilot 07" width="120"> | Sleeping doll eyes | Not uploaded |
+| 08 | <img src="assets/previews/pilot-08.svg" alt="Concept illustration for pilot 08" width="120"> | Jack-in-the-box release latch | Not uploaded |
+| 09 | <img src="assets/previews/pilot-09.svg" alt="Concept illustration for pilot 09" width="120"> | Cylinder music box | Not uploaded |
+| 10 | <img src="assets/previews/package.png" alt="CAD view of the windowed brick" width="120"> | Stud-and-tube building brick | [Download v1](https://github.com/yury-g/Toy-Hackery-Pilots/releases/tag/pilot-10-v1) |
+
+### Original patent
+
+[<img src="assets/previews/patent.png" alt="First page of US patent 3,005,282 showing the original building brick drawings" width="260">](https://patents.google.com/patent/US3005282A/en)
 
 The Pilot 10 mechanism is grounded in [Godtfred Kirk Christiansen's US3005282A](https://patents.google.com/patent/US3005282A/en). The windowed roof, pull tabs, enlarged dimensions and FDM fit are teaching modifications.
 
